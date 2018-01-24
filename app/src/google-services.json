@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "301396116101",
+    "firebase_url": "https://sdeahtihs.firebaseio.com",
+    "project_id": "sdeahtihs",
+    "storage_bucket": "sdeahtihs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301396116101:android:f1812a9006bbdc39",
+        "android_client_info": {
+          "package_name": "com.androidhive.sdeahtihs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301396116101-oladiapfq0hubbjfcsbgrcfov2tnvcfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqjjtlx2V3rnv2IysraGDUET9guUmShc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

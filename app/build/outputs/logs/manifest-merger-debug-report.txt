@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.0.1.aar/8488983d0af3ef5bb3bd26f4b1bd4bfe/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/85cbbaa6ed0d99d72089125869cc8227/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-database-10.0.1.aar/85cd998a17ffb5c7fa51c03973c6e889/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.0.1.aar/0b597a737883169548eec0506e040600/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.0.1.aar/483490a8b17848e23ed8defccb2d79c4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/4829dbeaff17062ce52d218112bf2aaf/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/ed1ae1e89eb639da436ba29aebab8774/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:24.0.0] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/c0047809e8ffc8377e09e2aa5c513a07/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.0.1.aar/8488983d0af3ef5bb3bd26f4b1bd4bfe/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-storage-10.0.1.aar/8488983d0af3ef5bb3bd26f4b1bd4bfe/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/85cbbaa6ed0d99d72089125869cc8227/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/85cbbaa6ed0d99d72089125869cc8227/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-database-10.0.1.aar/85cd998a17ffb5c7fa51c03973c6e889/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-database-10.0.1.aar/85cd998a17ffb5c7fa51c03973c6e889/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.0.1.aar/0b597a737883169548eec0506e040600/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-10.0.1.aar/0b597a737883169548eec0506e040600/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.0.1.aar/483490a8b17848e23ed8defccb2d79c4/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-10.0.1.aar/483490a8b17848e23ed8defccb2d79c4/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/4829dbeaff17062ce52d218112bf2aaf/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/4829dbeaff17062ce52d218112bf2aaf/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/ed1ae1e89eb639da436ba29aebab8774/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/ed1ae1e89eb639da436ba29aebab8774/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/c0047809e8ffc8377e09e2aa5c513a07/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/c0047809e8ffc8377e09e2aa5c513a07/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/c0047809e8ffc8377e09e2aa5c513a07/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:12:19-57
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:16:22-68
+application
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:18:5-33:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/85cbbaa6ed0d99d72089125869cc8227/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/85cbbaa6ed0d99d72089125869cc8227/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/4829dbeaff17062ce52d218112bf2aaf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/4829dbeaff17062ce52d218112bf2aaf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/ed1ae1e89eb639da436ba29aebab8774/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/ed1ae1e89eb639da436ba29aebab8774/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/c0047809e8ffc8377e09e2aa5c513a07/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/c0047809e8ffc8377e09e2aa5c513a07/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:22:9-40
+activity#androidhive.androidcameraapi.MainActivity
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:24:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/aliabbasjaffri/Downloads/AndroidCameraAPI1/app/src/main/AndroidManifest.xml:30:27-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/8424af6e8e9e44773475bbee53277d05/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/4f4b3e68730b745d22b9b98f47ec1509/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:24:17-71
+permission#androidhive.androidcameraapi.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:26:22-76
+uses-permission#androidhive.androidcameraapi.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:31:13-35:29
+intent-filter#androidhive.androidcameraapi+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:34:27-58
+category#androidhive.androidcameraapi
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/8b08bb4c62610156bc52259e2f8e5aeb/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/3e03ca731d3d4e322c1945bd7ac077c5/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/c06b04989f956ee03366013823d23b21/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/aliabbasjaffri/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/d3cf5692bfc25516585aac04343eff5b/AndroidManifest.xml:20:20-65
